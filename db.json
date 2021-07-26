@@ -1,0 +1,99 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "users": [
+        {
+            "id": 9821310001,
+            "stage": "new-user",
+            "name": "",
+            "pincode": "",
+            "email": "",
+            "scan_status": ""
+        },
+        {
+            "id": 9821310002,
+            "stage": "new-user",
+            "name": "",
+            "pincode": "",
+            "email": "",
+            "scan_status": ""
+        },
+        {
+            "id": 9821310003,
+            "stage": "new-user",
+            "name": "",
+            "pincode": "",
+            "email": "",
+            "scan_status": ""
+        },
+        {
+            "id": 9821310004,
+            "stage": "new-user",
+            "name": "",
+            "pincode": "",
+            "email": "",
+            "scan_status": ""
+        },
+        {
+            "id": 9821310005,
+            "stage": "new-user",
+            "name": "",
+            "pincode": "",
+            "email": "",
+            "scan_status": ""
+        },
+        {
+            "id": 9821320001,
+            "stage": "exisiting-scan-not-booked",
+            "name": "b 1",
+            "pincode": "400060",
+            "email": "b1@toothsi.in",
+            "scan_status": "not-confirmed"
+        },
+        {
+            "id": 9821320002,
+            "stage": "exisiting-scan-not-booked",
+            "name": "b 2",
+            "pincode": "400061",
+            "email": "b2@toothsi.in",
+            "scan_status": "not-confirmed"
+        },
+        {
+            "id": 9821320003,
+            "stage": "exisiting-scan-not-booked",
+            "name": "b 3",
+            "pincode": "400062",
+            "email": "b3@toothsi.in",
+            "scan_status": "not-confirmed"
+        },
+        {
+            "id": 9821320004,
+            "stage": "exisiting-scan-not-booked",
+            "name": "b 4",
+            "pincode": "400063",
+            "email": "b4@toothsi.in",
+            "scan_status": "not-confirmed"
+        },
+        {
+            "id": 9821320005,
+            "stage": "exisiting-scan-not-booked",
+            "name": "b 5",
+            "pincode": "400064",
+            "email": "b5@toothsi.in",
+            "scan_status": "not-confirmed"
+        }
+    ],
+    "login-url": [
+        {
+            "id": 9821310001,
+            "url": "https://toothsibeta.jaim.tech/login/?mobile=9821310001"
+        }
+    ]
+}
