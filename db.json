@@ -283,5 +283,27 @@
             "agent_rating": "",
             "feedback_giver": null
         }
+    ],
+    "cases": [
+        {
+            "id": "c 1",
+            "category": ""
+        },
+        {
+            "id": "c 2",
+            "category": ""
+        },
+        {
+            "id": "c 3",
+            "category": ""
+        },
+        {
+            "id": "c 4",
+            "category": ""
+        },
+        {
+            "id": "c 5",
+            "category": ""
+        }
     ]
 }
