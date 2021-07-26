@@ -2,19 +2,31 @@
     "cases": [
         {
             "id": 123456781,
-            "category": ""
+            "category": "",
+            "description": "",
+            "case_status": "",
+            "disposition": ""
         },
         {
             "id": 123456782,
-            "category": "o"
+            "category": "",
+            "description": "",
+            "case_status": "",
+            "disposition": ""
         },
         {
             "id": 123456783,
-            "category": "p"
+            "category": "",
+            "description": "",
+            "case_status": "",
+            "disposition": ""
         },
         {
             "id": 123456784,
-            "category": "e"
+            "category": "",
+            "description": "",
+            "case_status": "",
+            "disposition": ""
         }
     ],
     "users": [
