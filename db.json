@@ -38,7 +38,6 @@
             "email": "",
             "scan_status": "",
             "Notes": "",
-            "Comments": "",
             "scan_done": "No",
             "case_number": null,
             "Payment_done_status": "No"
@@ -52,7 +51,6 @@
             "scan_status": "",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": 123456782,
             "Payment_done_status": "No"
         },
@@ -65,7 +63,6 @@
             "scan_status": "",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -78,7 +75,6 @@
             "scan_status": "",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -91,7 +87,6 @@
             "scan_status": "",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -104,7 +99,6 @@
             "scan_status": "not-confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -117,7 +111,6 @@
             "scan_status": "not-confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -130,7 +123,6 @@
             "scan_status": "not-confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -143,7 +135,6 @@
             "scan_status": "not-confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -156,7 +147,6 @@
             "scan_status": "not-confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "No"
         },
@@ -169,7 +159,6 @@
             "scan_status": "confirmed",
             "scan_done": "Yes",
             "Notes": "",
-            "Comments": "",
             "case_number": 123456784,
             "Payment_done_status": "Yes"
         },
@@ -182,7 +171,6 @@
             "scan_status": "confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "Yes"
         },
@@ -195,7 +183,6 @@
             "scan_status": "confirmed",
             "scan_done": "Yes",
             "Notes": "",
-            "Comments": "",
             "case_number": 123456783,
             "Payment_done_status": "Yes"
         },
@@ -208,7 +195,6 @@
             "scan_status": "confirmed",
             "scan_done": "No",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "Yes"
         },
@@ -221,7 +207,6 @@
             "scan_status": "confirmed",
             "scan_done": "yes",
             "Notes": "",
-            "Comments": "",
             "case_number": null,
             "Payment_done_status": "Yes"
         }
