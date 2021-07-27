@@ -304,31 +304,5 @@
             "agent_rating": "",
             "feedback_giver": null
         }
-    ],
-    "whatsapp-queue": [
-        {
-            "id": 9821310001
-        }
-    ],
-    "request-call-back": [
-        {
-            "id": 9821310001
-        }
-    ],
-    "get-relevant-agent-team": [
-        {
-            "id": 9821310001,
-            "team": "sales"
-        },
-        {
-            "id": 9821310002,
-            "url": "https://toothsibeta.jaim.tech/login/?mobile=9821310002"
-        }
-    ],
-    "disposition": [
-        {
-            "id": 9821310001,
-            "disposition": null
-        }
     ]
 }
