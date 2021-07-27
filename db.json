@@ -37,7 +37,8 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821310002,
@@ -46,7 +47,8 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821310003,
@@ -55,7 +57,7 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": ""
+            "active_case_subject": "No"
         },
         {
             "id": 9821310004,
@@ -64,7 +66,8 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821310005,
@@ -73,7 +76,8 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821320001,
@@ -82,7 +86,8 @@
             "pincode": "400060",
             "email": "b1@toothsi.in",
             "scan_status": "not-confirmed",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821320002,
@@ -91,7 +96,8 @@
             "pincode": "400061",
             "email": "b2@toothsi.in",
             "scan_status": "not-confirmed",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821320003,
@@ -100,7 +106,8 @@
             "pincode": "400062",
             "email": "b3@toothsi.in",
             "scan_status": "not-confirmed",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821320004,
@@ -109,7 +116,8 @@
             "pincode": "400063",
             "email": "b4@toothsi.in",
             "scan_status": "not-confirmed",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821320005,
@@ -118,7 +126,8 @@
             "pincode": "400064",
             "email": "b5@toothsi.in",
             "scan_status": "not-confirmed",
-            "active_case_subject": ""
+            "active_case_subject": "",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821330001,
@@ -127,7 +136,8 @@
             "pincode": "400065",
             "email": "b6@toothsi.in",
             "scan_status": "confirmed",
-            "active_case_subject": "c 1"
+            "active_case_subject": "c 1",
+            "Payment_done_status": "Yes"
         },
         {
             "id": 9821330002,
@@ -136,7 +146,8 @@
             "pincode": "400066",
             "email": "b7@toothsi.in",
             "scan_status": "confirmed",
-            "active_case_subject": "c 2"
+            "active_case_subject": "c 2",
+            "Payment_done_status": "Yes"
         },
         {
             "id": 9821330003,
@@ -145,7 +156,8 @@
             "pincode": "400067",
             "email": "b8@toothsi.in",
             "scan_status": "confirmed",
-            "active_case_subject": "c 3"
+            "active_case_subject": "c 3",
+            "Payment_done_status": "Yes"
         },
         {
             "id": 9821330004,
@@ -154,7 +166,8 @@
             "pincode": "400068",
             "email": "b9@toothsi.in",
             "scan_status": "confirmed",
-            "active_case_subject": "c 4"
+            "active_case_subject": "c 4",
+            "Payment_done_status": "Yes"
         },
         {
             "id": 9821330005,
@@ -163,7 +176,8 @@
             "pincode": "400069",
             "email": "b10@toothsi.in",
             "scan_status": "confirmed",
-            "active_case_subject": "c 5"
+            "active_case_subject": "c 5",
+            "Payment_done_status": "Yes"
         }
     ],
     "login-url": [
