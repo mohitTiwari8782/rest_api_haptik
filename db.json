@@ -38,6 +38,7 @@
             "email": "",
             "scan_status": "",
             "active_case_subject": "",
+            "scan_done": "No",
             "Payment_done_status": "No"
         },
         {
@@ -47,6 +48,7 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -57,7 +59,9 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
-            "active_case_subject": "No"
+            "scan_done": "No",
+            "active_case_subject": "No",
+            "Payment_done_status": "No"
         },
         {
             "id": 9821310004,
@@ -66,6 +70,7 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -76,6 +81,7 @@
             "pincode": "",
             "email": "",
             "scan_status": "",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -86,6 +92,7 @@
             "pincode": "400060",
             "email": "b1@toothsi.in",
             "scan_status": "not-confirmed",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -96,6 +103,7 @@
             "pincode": "400061",
             "email": "b2@toothsi.in",
             "scan_status": "not-confirmed",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -106,6 +114,7 @@
             "pincode": "400062",
             "email": "b3@toothsi.in",
             "scan_status": "not-confirmed",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -116,6 +125,7 @@
             "pincode": "400063",
             "email": "b4@toothsi.in",
             "scan_status": "not-confirmed",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -126,6 +136,7 @@
             "pincode": "400064",
             "email": "b5@toothsi.in",
             "scan_status": "not-confirmed",
+            "scan_done": "No",
             "active_case_subject": "",
             "Payment_done_status": "No"
         },
@@ -136,6 +147,7 @@
             "pincode": "400065",
             "email": "b6@toothsi.in",
             "scan_status": "confirmed",
+            "scan_done": "Yes",
             "active_case_subject": "c 1",
             "Payment_done_status": "Yes"
         },
@@ -146,6 +158,7 @@
             "pincode": "400066",
             "email": "b7@toothsi.in",
             "scan_status": "confirmed",
+            "scan_done": "No",
             "active_case_subject": "c 2",
             "Payment_done_status": "Yes"
         },
@@ -156,6 +169,7 @@
             "pincode": "400067",
             "email": "b8@toothsi.in",
             "scan_status": "confirmed",
+            "scan_done": "Yes",
             "active_case_subject": "c 3",
             "Payment_done_status": "Yes"
         },
@@ -166,6 +180,7 @@
             "pincode": "400068",
             "email": "b9@toothsi.in",
             "scan_status": "confirmed",
+            "scan_done": "No",
             "active_case_subject": "c 4",
             "Payment_done_status": "Yes"
         },
@@ -176,6 +191,7 @@
             "pincode": "400069",
             "email": "b10@toothsi.in",
             "scan_status": "confirmed",
+            "scan_done": "yes",
             "active_case_subject": "c 5",
             "Payment_done_status": "Yes"
         }
