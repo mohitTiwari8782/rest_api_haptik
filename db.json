@@ -70,32 +70,6 @@
             "Payment_done_status": "No"
         },
         {
-            "id": 9821310004,
-            "user_exist_in_db": "No",
-            "name": "",
-            "pincode": "",
-            "email": "",
-            "scan_status": "",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
-            "Payment_done_status": "No"
-        },
-        {
-            "id": 9821310005,
-            "user_exist_in_db": "No",
-            "name": "",
-            "pincode": "",
-            "email": "",
-            "scan_status": "",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
-            "Payment_done_status": "No"
-        },
-        {
             "id": 9821320001,
             "user_exist_in_db": "Yes",
             "name": "b 1",
@@ -122,45 +96,6 @@
             "Payment_done_status": "No"
         },
         {
-            "id": 9821320003,
-            "user_exist_in_db": "Yes",
-            "name": "b 3",
-            "pincode": "400062",
-            "email": "b3@toothsi.in",
-            "scan_status": "not-confirmed",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
-            "Payment_done_status": "No"
-        },
-        {
-            "id": 9821320004,
-            "user_exist_in_db": "Yes",
-            "name": "b 4",
-            "pincode": "400063",
-            "email": "b4@toothsi.in",
-            "scan_status": "not-confirmed",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
-            "Payment_done_status": "No"
-        },
-        {
-            "id": 9821320005,
-            "user_exist_in_db": "Yes",
-            "name": "b 5",
-            "pincode": "400064",
-            "email": "b5@toothsi.in",
-            "scan_status": "not-confirmed",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
-            "Payment_done_status": "No"
-        },
-        {
             "id": 9821330001,
             "user_exist_in_db": "Yes",
             "name": "b 6",
@@ -171,19 +106,6 @@
             "Notes": "",
             "Comments": "",
             "case_number": 123456784,
-            "Payment_done_status": "Yes"
-        },
-        {
-            "id": 9821330002,
-            "user_exist_in_db": "Yes",
-            "name": "b 7",
-            "pincode": "400066",
-            "email": "b7@toothsi.in",
-            "scan_status": "confirmed",
-            "scan_done": "No",
-            "Notes": "",
-            "Comments": "",
-            "case_number": null,
             "Payment_done_status": "Yes"
         },
         {
